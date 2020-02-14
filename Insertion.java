@@ -1,7 +1,5 @@
 package data.java;
-
 import java.sql.*;
-
 public class Insertion {
 	public static void main(String args[])
 	{
