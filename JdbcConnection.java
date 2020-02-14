@@ -1,7 +1,6 @@
 package bhavya;
 import java.sql.*;
 
-
 public class JdbcConnection {
 	private static final String CREATE_TABLE_SQL =  "CREATE TABLE employee4 ("
              + "UID INT NOT NULL,"
